@@ -1758,7 +1758,7 @@ p.demo_store,
 	padding: 1em 2em 1em 3.5em;
 	margin: 0 0 2em;
 	position: relative;
-	background-color: lighten($secondary, 5%);
+	background-color: $contentbg;
 	color: $secondarytext;
 	border-top: 3px solid $primary;
 	list-style: none outside;
