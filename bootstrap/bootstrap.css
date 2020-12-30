@@ -11328,6 +11328,8 @@ h3 {
 }
 #masthead .site-branding {
   padding: 20px 15px;
+  margin-left: -15px;
+  margin-right: -15px;
 }
 
 .wp-caption {
