@@ -14,7 +14,7 @@ function my_theme_enqueue_styles() {
 
 }
 
-add_action('wp_enqueue_scripts', function(){wp_dequeue_style('_s-style');}, 20);
+//add_action('wp_enqueue_scripts', function(){wp_dequeue_style('_s-style');}, 20);
 
 
 // Uncomment to remove CPT from Parent Theme
