@@ -636,6 +636,7 @@ p.demo_store,
 		margin: 0 0 1em;
 
 		select {
+			@extend .custom-select;
 			vertical-align: top;
 		}
 	}
