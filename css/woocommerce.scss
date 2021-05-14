@@ -462,10 +462,7 @@ p.demo_store,
 				}
 
 				select {
-					max-width: 100%;
-					min-width: 75%;
-					display: inline-block;
-					margin-right: 1em;
+					@extend .custom-select;
 				}
 
 				td.label {
